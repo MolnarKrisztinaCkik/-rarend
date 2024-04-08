@@ -1,6 +1,7 @@
   Body {
      background-color: rgb(179, 233, 175);
  } 
+
 .címsor {
 background-color: darkturquoise;
 color: whitesmoke;
@@ -9,5 +10,9 @@ font-size: large;
 } 
 
  table {
-    background-color: crimson; 
+    background-color: rgb(112, 87, 92); 
+}
+
+ tr {
+    background-color: gray;
 }
