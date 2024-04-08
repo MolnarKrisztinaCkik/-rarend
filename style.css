@@ -1,6 +1,7 @@
  Body {
      background-color: rgb(179, 233, 175);
  } 
+ 
 .címsor {
 background-color: darkturquoise;
 color: rgb(53, 21, 231);
@@ -22,4 +23,5 @@ font-size: large;
  #óra {
      background-color: pink;
      color: darkviolet;
- }
+    border: solid hotpink;
+}
