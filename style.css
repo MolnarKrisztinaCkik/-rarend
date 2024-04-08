@@ -10,9 +10,9 @@ font-size: large;
 } 
 
  table {
-    background-color: rgb(112, 87, 92); 
-}
+     background-color: grey ;
+ }
 
- tr {
-    background-color: gray;
+.class {
+    background-color: greenyellow; 
 }
