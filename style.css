@@ -20,8 +20,10 @@ font-size: large;
  table {
     background-color: rgb(79, 133, 149);
     color: ghostwhite;
+    border: solid hotpink;
 }
 
  tr {
     background-color:rgb(66, 27, 66);
+    border: solid ;
  }
