@@ -1,27 +1,25 @@
-  Body {
+ Body {
      background-color: rgb(179, 233, 175);
  } 
-
 .címsor {
 background-color: darkturquoise;
-color: whitesmoke;
+color: rgb(53, 21, 231);
 font-variant: small-caps;
 font-size: large;
-} 
-
- table {
-     background-color: grey ;
- }
-
-.class {
-    background-color: greenyellow; 
 }
 
  table {
     background-color: rgb(79, 133, 149);
     color: ghostwhite;
+ border:solid rgb(255, 3, 200);
 }
 
  tr {
-    background-color:rgb(66, 27, 66);
+    background-color:rgb(236, 130, 213);
+    border: solid whitesmoke;
+ }
+
+ #óra {
+     background-color: pink;
+     color: darkviolet;
  }
